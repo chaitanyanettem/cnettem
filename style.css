@@ -70,4 +70,8 @@ p{
 
 .funny-quote{
 	color: gray;
+	position:absolute;
+	right:40px;
+	top:30px;
+	width:160px;
 }
