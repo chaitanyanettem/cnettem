@@ -21,7 +21,7 @@ h1
 	position: absolute;
 	left:40px;
 	margin-top:50px;
-	width:150px;
+	width:160px;
 }
 
 a
@@ -66,4 +66,7 @@ p{
 
 code{
 	font-family: 'Inconsolata';
+}
+.funny-quote{
+	color: gray;
 }
